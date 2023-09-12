@@ -2,7 +2,7 @@ import { ethers } from "hardhat";
 import {getSelectors, FacetCutAction} from './utils';
 import { ContractFactory } from "ethers";
 
-// 다이아몬드에 추가할 facets 들 이름 설정
+// 다이아몬드에 추가할 facets 들 이름 설정d
 const FacetNames = [
   'DiamondCutFacet',
   'DiamondLoupeFacet',
